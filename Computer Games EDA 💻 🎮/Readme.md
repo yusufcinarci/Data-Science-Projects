@@ -41,7 +41,4 @@ Computer_Games
 
 ![image](https://user-images.githubusercontent.com/63750425/197993269-1b4c7823-dab1-4002-a4a7-86f89af5c29a.png)
 
-## Don't forget to like and fork. I wish you healthy days.
 
-
- ![Başlıksız-1A](https://user-images.githubusercontent.com/63750425/197761042-8654b0e6-92a8-41bd-a38d-55ee5f4b3882.png)
