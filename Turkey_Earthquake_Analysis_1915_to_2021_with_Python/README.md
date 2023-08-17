@@ -235,8 +235,3 @@ fig.show()
 
 ```
 https://user-images.githubusercontent.com/77057546/186194528-88f3362e-93dd-488d-ae3a-eed17530dedf.mp4
-
-
-See you on another project.
-
-## MAY THE FORCE BE WITH YOU!!!
