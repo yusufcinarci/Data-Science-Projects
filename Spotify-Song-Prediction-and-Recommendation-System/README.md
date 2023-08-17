@@ -134,4 +134,3 @@ make_matrix_correlation(df,e,f)
   
   ![image](https://user-images.githubusercontent.com/63750425/182091405-fb736d12-bf27-439a-a0a1-5b4276539b08.png)
 
-## See you on other data science projects. Take care of yourselves:)
