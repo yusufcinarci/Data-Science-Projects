@@ -164,6 +164,3 @@ print('Score Mean',cv_score_baseXGB.mean()*100, 'Score Standard Deviation', cv_s
 
 ![image](https://user-images.githubusercontent.com/63750425/184535464-b88215d5-a9fd-4013-876a-62eaaa230e49.png)
 
-
-### See you in another project. Healthy days. 
-# MAY THE POWER BE WITH YOU!!!
