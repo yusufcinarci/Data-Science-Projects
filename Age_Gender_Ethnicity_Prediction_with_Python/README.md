@@ -152,9 +152,4 @@ print('Test Accuracy: {}'.format(acc))
 ```
 ![Ekran görüntüsü 2022-08-22 152126](https://user-images.githubusercontent.com/77057546/185919814-655a3f17-40ab-4d12-bf2c-c6149548119a.png)
 
-We use the same codes that we used in the age part among other options to make predictions, changing their names.
 
-
-See you on another project.
-
-## MAY THE POWER BE WITH YOU!!!
