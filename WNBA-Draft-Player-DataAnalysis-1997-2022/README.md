@@ -147,7 +147,3 @@ fig.show()
 ```
 
 https://user-images.githubusercontent.com/77057546/187438275-18b98c99-c419-4ebc-8783-d303423aa471.mp4
-
-See you on another project.
-
-## MAY THE FORCE BE WITH YOU!!!
