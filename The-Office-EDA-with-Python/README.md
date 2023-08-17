@@ -96,8 +96,3 @@ table.opts(height=530,width=400)
 ```
 
 ![image](https://user-images.githubusercontent.com/63750425/184617999-9a55c291-2b69-4692-81ff-13576cecdd8b.png)
-
-
-#### See you in the next project. I wish you healthy days. 
-
-## And finally THAT'S WHAT SHE SAID...
