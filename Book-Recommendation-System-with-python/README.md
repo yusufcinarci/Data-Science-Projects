@@ -197,9 +197,3 @@ content_based_recommender('Animal Farm')
 ```
 
 ![image](https://user-images.githubusercontent.com/63750425/182405193-be704c2b-9dad-42b8-b149-7e7afd4f9e22.png)
-
-
-### Hope to see you in another project. Take good care of yourself. 
-
-# May the force be with you
-![image](https://user-images.githubusercontent.com/63750425/182406254-1fb36526-bf9d-412a-8a6d-2e614c241e23.png)
