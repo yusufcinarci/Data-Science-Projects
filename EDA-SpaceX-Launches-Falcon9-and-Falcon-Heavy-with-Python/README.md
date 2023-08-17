@@ -88,10 +88,5 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/63750425/185084232-28a972c1-810b-4366-9747-8b2bad4f4cf5.png)
 
-
-See you on another project.
-
-## MAY THE POWER BE WITH YOU!!!
-
 "If humanity doesn't land on Mars in my lifetime, I would be very disappointed."
 Elon Musk
