@@ -140,13 +140,3 @@ car_comp.columns = ['Tesla Open', 'GM Open', 'Ford Open']
 scatter_matrix(car_comp,figsize = (12,12))
 ```
 ![5](https://user-images.githubusercontent.com/77057546/160424235-8e85b471-cf28-455d-a103-b1d2f19e7c40.png)
-
-Yes, in this project I tried to show you how to make a simple stock market data analysis application over python.
-
-I wish you a healthy day.
-
-
-
-
-
-
