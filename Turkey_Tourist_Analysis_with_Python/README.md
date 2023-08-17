@@ -204,7 +204,3 @@ plt.show()
 ```
 
 ![12](https://user-images.githubusercontent.com/77057546/186480473-83325e3c-252e-47e4-99c1-5a088e329951.png)
-
-See you on another project.
-
-## MAY THE FORCE BE WITH YOU!!!
