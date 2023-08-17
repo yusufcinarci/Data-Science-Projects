@@ -191,7 +191,3 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/63750425/187078440-2361cd9a-0125-4cce-9b35-d86c899a07b3.png)
 
-
-With this project, we have examined and analyzed the applications in the app store according to both their prices and categories.
-
-# MAY THE FORCE BE WITH YOU!!!
