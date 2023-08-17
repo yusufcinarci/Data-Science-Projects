@@ -32,5 +32,3 @@ import plotly.express as px
 
 ![image](https://user-images.githubusercontent.com/63750425/200774435-96680eba-9251-4b39-ad10-1e9ff28ca23a.png)
 
-# Thank You...
- ![Başlıksız-1A](https://user-images.githubusercontent.com/63750425/197761042-8654b0e6-92a8-41bd-a38d-55ee5f4b3882.png)
