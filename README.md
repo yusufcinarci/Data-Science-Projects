@@ -6,7 +6,7 @@ These projects delve into various facets of data science, encompassing data anal
 
 I invite you to peruse the folders, explore the intricacies of the code, and uncover the inner workings of these projects. My hope is that these creations inspire, educate, and empower individuals who share a fascination for data science, just as I do. Together, we'll traverse the fascinating landscape of data-driven insights and propel ourselves towards data-driven excellence.
 
-Your engagement, suggestions, and collaborations are not only welcomed but celebrated. Join me on this exciting expedition into the realm of data science, where every day brings a new opportunity to learn, innovate, and make a meaningful impact.....
+Your engagement, suggestions, and collaborations are not only welcomed but celebrated. Join me on this exciting expedition into the realm of data science, where every day brings a new opportunity to learn, innovate, and make a meaningful impact...
 
 
 
